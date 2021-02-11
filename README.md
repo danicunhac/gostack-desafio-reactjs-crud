@@ -2,3 +2,6 @@
 # GoRestaurant Web
 
 Projeto desenvolvido como desafio durante o bootcamp GoStack da Rocketseat 🚀 para pedidos de um restaurante. ReactJS, Axios, Typescript, styled-components
+
+
+![img](https://media-exp1.licdn.com/dms/image/C4D22AQFm4D7x3kd8Ig/feedshare-shrink_2048_1536/0/1612961937171?e=1616025600&v=beta&t=viIrjshfZi_oFL3pQX0U93kEfYCvr1U1EkvIIE1QIPI)
